@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/moto-g53",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a moto-g53",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/moto-g53.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://coscouture.com/es/moto-g53/"
+    },
+    "homepage": "https://coscouture.com/es/moto-g53/"
+}
